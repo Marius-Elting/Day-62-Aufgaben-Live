@@ -78,7 +78,7 @@ export const data = [{
     "id": 20,
     "city": "Çepan",
     "population": 787308
-}]
+}];
 
 
-
+enf;
